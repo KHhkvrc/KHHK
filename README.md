@@ -9,5 +9,5 @@
   <p align="right"> brutforce -<p>
   <p align="right">cracking -<p>
   <p align="right">localisation approximative -<p>
-  <p align="right">et des outil comme des spyware -<p>
+  <p align="right"> outil comme des spyware -<p>
 
