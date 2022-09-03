@@ -12,7 +12,7 @@
  <div/>
  
   
-  <p><img align="left" alt="gif" src="https://c.tenor.com/Dwfua5i1kQwAAAAM/hi-wave.gif" width="200" height="200" /></p>
-  <br>#
+  <p><img align="left" alt="gif" src="https://c.tenor.com/Dwfua5i1kQwAAAAM/hi-wave.gif" width="200" height="200" ></p>
+  <br>
   
   <h2>BYE BYE <h2>
