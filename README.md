@@ -11,6 +11,6 @@
   <p align="right">localisation approximative -<p>
   <p align="right"> outil comme des spyware -<p>
 <div/>
-<p><img align="left" alt="gif" src="https://c.tenor.com/Dwfua5i1kQwAAAAM/hi-wave.gif" width="30" height="30" /></p>
+<p><img align="left" alt="gif" src="https://c.tenor.com/Dwfua5i1kQwAAAAM/hi-wave.gif" width="150" height="150" /></p>
   <br>
   <h2>BYE BYE <h2>
