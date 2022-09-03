@@ -3,7 +3,7 @@
 
 <p><img align="left" alt="gif" src="https://github.com/KHhkvrc/KHHK/blob/main/giphy.gif" width="500" height="320" /></p>
 
-<h3> prérequis <h3>
+<h3 align="right"> prérequis <h3>
   <br>
-  <p>- windows ou linux<p>
-  <p>- etre root<p>
+  <p align="right"> windows ou linux -<p>
+  <p align="right"> etre root -<p>
